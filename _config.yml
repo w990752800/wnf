@@ -80,5 +80,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/w990752800/wnf.github.io #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: master #published
+  branch: [master] #published
   message: [message]
